@@ -1,6 +1,7 @@
 # Site settings
 title: devcolton's portfolio
 description: PORTFOLIO
+baseurl: "/devcolton.github.io" # the subpath of your site
 
 # User settings
 username: devcolton
